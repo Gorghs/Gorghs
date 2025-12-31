@@ -67,10 +67,9 @@
 
 ## 📝 Latest Blog Posts
 
-- 🌐 [Google I/O Connect Shanghai – Cloud, AI & Web](https://example.com/blog-1) — *September 11, 2023*
-- 📊 [Understanding the State of DevOps 2022](https://example.com/blog-2) — *October 18, 2022*
-- 🔍 [Reverse Engineering Without Source Maps](https://example.com/blog-3) — *July 12, 2021*
-- 🎨 [Building a Custom CSS Framework for Teams](https://example.com/blog-4) — *March 2, 2021*
-- 🔗 [Self-Updating README with Webhooks](https://example.com/blog-5) — *July 20, 2020*
+- 🔍 [2025 at My Desk: How Technical Work Quietly Rewired My Life](https://medium.com/@swagata_acharya/2025-at-my-desk-how-technical-work-quietly-rewired-my-life-7b74c3d38e47) — *Dec 2025* 
+- 🤖 [Exploring the Latest Updates in Technology (2025 Edition)](https://medium.com/@learnwithakshay/the-future-is-now-exploring-the-latest-updates-in-technology-2025-edition-20a4342afd41) — *Jun 19, 2025* 
+- 📌 [I Started a Tech Blog on WordPress in 2025… again](https://medium.com/@sumsourabh14/i-started-a-tech-blog-on-wordpress-in-2025-again-17a5a6d693ba) — *Aug 7, 2025*
+- 💡 [Top Technology Trends In 2025](https://medium.com/@usetech/top-technology-trends-in-2025-29e605e2ef35) — *July 16 ,2025* 
+- 📘 [25 Technology Predictions for 2025](https://alan-smithson.medium.com/25-technology-predictions-for-2025-da60fa32b999) — *Feb 5,2025* 
 
----
